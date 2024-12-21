@@ -1,0 +1,2 @@
+This project demonstrates the best practices for organizing a feature-based folder structure in Jetpack Compose. It aims to provide a clean, maintainable, and scalable approach to structuring Android projects using Jetpack Compose, making it easier to manage features and maintain code as projects grow. The structure follows industry standards and is designed to enhance collaboration among developers while ensuring code readability and modularity.
+
